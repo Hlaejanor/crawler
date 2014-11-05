@@ -2,8 +2,8 @@
 header('Content-Type: text/html; charset=utf-8');
 
 const DBServer = 'localhost';
-const DBUser = 'vxlpay';
-const DBPass = 'highgarden';
+const DBUser = 'root';
+const DBPass = 'root';
 const DBName = 'RestAssured';
 
 set_time_limit(0);
